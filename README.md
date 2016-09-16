@@ -1,2 +1,0 @@
-# Destructible-Walls
-School project
